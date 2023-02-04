@@ -2,4 +2,5 @@ Nombre de los integrantes del taller:
 - Daniel Esteban Perez Bohorquez
 - Juan Francisco Teran Roman
 
+Proyecto: Patterns
 Entrega del laboratorio: https://github.com/TeranRyl/literate-adventure.git
