@@ -3,4 +3,4 @@ Nombre de los integrantes del taller:
 - Juan Francisco Teran Roman
 
 Proyecto: Patterns
-Entrega del laboratorio: https://github.com/TeranRyl/literate-adventure.git
+Entrega del laboratorio: https://github.com/TeranRyl/CVDS_Lab2_Patterns.git
